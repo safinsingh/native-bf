@@ -1,0 +1,13 @@
+{
+	"configurations": [
+		{
+			"name": "Main",
+			"compilerArgs": ["-lLLVM-11"],
+			"includePath": ["${workspaceFolder}/include", "/usr/lib/llvm-11/include"],
+			"intelliSenseMode": "linux-clang-x64",
+			"compilerPath": "/usr/bin/clang",
+			"cppStandard": "c++17"
+		}
+	],
+	"version": 4
+}
